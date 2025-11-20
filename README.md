@@ -1,4 +1,5 @@
-# Dodge the Creeps 2D assets
+# Godot Tutorial
+## Dodge the Creeps 2D assets
 
 Used by the "Your first 2D game" tutorial:
 
